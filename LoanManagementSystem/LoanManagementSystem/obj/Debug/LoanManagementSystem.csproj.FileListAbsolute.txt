@@ -1,0 +1,8 @@
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe.config
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.pdb
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.exe
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.pdb
+C:\Users\singh\source\repos\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.exe.config
