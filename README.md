@@ -43,11 +43,14 @@ Create SQL Schema from the `Customer` and `Loan` classes using the class attribu
 
 ## Project Structure
 
-- **Models**: Entity classes like Customer, Loan, CarLoan, HomeLoan
-- **DAO**: Interfaces and their implementations for DB interaction
-- **Exceptions**: User-defined exceptions like InvalidLoanException
-- **Data**: Utilities for DB connection and configuration
-- **Main**: Menu-driven entry point for the application
+📦 LoanManagementSystem/
+├── 📁 Models/             → Entity classes: Customer, Loan, CarLoan, HomeLoan
+├── 📁 DAO/                → Interfaces and implementations (ILoanRepository, LoanRepositoryImpl)
+├── 📁 Data/               → DB utilities (DBConnUtil, DBPropertyUtil)
+├── 📁 Exceptions/         → Custom exceptions (InvalidLoanException)
+├── 📁 Main/               → Entry point (MainModule.cs - menu-driven console UI)
+├── ⚙️  App.config         → Connection string configuration
+└── 📝 LoanDB.sql          → SQL schema script
 
 ## Key Learnings
 
